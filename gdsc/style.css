@@ -1096,7 +1096,7 @@ footer .copyright img {
 
     .subscribe img.arrow {
         position: absolute;
-        left: 44rem;
+        left: 53rem;
         /* top: 1rem; */
     }
 
@@ -1104,7 +1104,7 @@ footer .copyright img {
         position: absolute;
         height: 12rem;
         z-index: -100;
-        left: 39rem;
+        left: 46rem;
     }
 
     .subscribe img:last-child {
@@ -1392,7 +1392,7 @@ footer .copyright img {
 
     .subscribe img.arrow {
         position: absolute;
-        left: 44rem;
+        left: 60rem;
         /* top: 1rem; */
     }
 
@@ -1400,7 +1400,7 @@ footer .copyright img {
         position: absolute;
         height: 12rem;
         z-index: -100;
-        left: 39rem;
+        left: 54rem;
     }
 
     .subscribe img:last-child {
